@@ -168,6 +168,7 @@ h3 {
 	justify-content: center;
 }
 .bottom-box {
+	border: 1px solid blue;
 	height: 80px;
 	width: 500px;
 	border-radius: 8px;
