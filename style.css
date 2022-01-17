@@ -103,7 +103,7 @@ a {
 	z-index: 1;
 }
 .row {
-	padding-top: 10px;
+	padding-top: 20px;
 	display: flex;
 	justify-content: center;
 	gap: 90px;
